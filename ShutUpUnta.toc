@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: |cffffc700[|cffff8000Shut Up Unta|cffffc700]|r
 ## DefaultState: enabled
 ## Author: defaude
