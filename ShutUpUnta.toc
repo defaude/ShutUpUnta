@@ -2,7 +2,7 @@
 ## Title: |cffffc700[|cffff8000Shut Up Unta|cffffc700]|r
 ## DefaultState: enabled
 ## Author: defaude
-## Version: 1.0.2
+## Version: 1.0.3
 ## Notes: All it does is mute Unta's emotes. Really.
 
 ShutUpUnta.lua
